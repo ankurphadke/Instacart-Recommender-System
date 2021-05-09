@@ -1,3 +1,3 @@
 # Instacart-Recommender-System
 
-~~~This is a Work in Progress.~~~
+~This is a Work in Progress.~
